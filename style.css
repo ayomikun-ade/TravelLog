@@ -19,7 +19,7 @@ header {
   height: 90vh;
   position: relative;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-    url(/image/back.jpg);
+    url(./image/back.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 4rem;
@@ -333,6 +333,8 @@ footer .name {
 @media (max-width: 420px) {
   .gallery .destination {
     width: 350px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   .destination img {
     height: 280px;
