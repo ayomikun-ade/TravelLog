@@ -19,7 +19,7 @@ header {
   height: 90vh;
   position: relative;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-    url(/image/bg-trees.jpg);
+    url(/image/back.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 4rem;
