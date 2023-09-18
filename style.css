@@ -176,7 +176,8 @@ nav .signup:hover {
   margin-top: 1.3rem;
   font-weight: 500;
   font-size: 1.1rem;
-  padding: 0 0.3rem;
+  padding: 0 2rem;
+  text-align: center;
 }
 .blog-con form {
   display: flex;
