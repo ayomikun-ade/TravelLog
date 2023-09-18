@@ -290,6 +290,13 @@ footer .name {
   flex-direction: row;
   align-items: center;
 }
+footer .profile {
+  color: white;
+  padding: 0 2rem;
+}
+footer .profile:hover {
+  color: cadetblue;
+}
 
 @media (max-width: 960px) {
   nav ul a {
@@ -331,6 +338,9 @@ footer .name {
 }
 
 @media (max-width: 420px) {
+  header {
+    height: 78vh;
+  }
   .gallery .destination {
     width: 350px;
     margin-left: 20px;
